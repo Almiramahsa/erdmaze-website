@@ -1,2 +1,4 @@
 Erdmaze Website.txt
-Membuat website untuk erdmaze
+Membuat Design Website
+Membuat website untuk Erdmaze
+Menyelesaikan kelas Android
